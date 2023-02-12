@@ -41,4 +41,4 @@ The following are the findings from the analysis of the sales data:
 
 - In terms of the channel of distribution, pharmacy recorded the highest sales with **53.94%** in total sales. More sales were made via retail subchannel with about **4%** in sales ahead of institution.
 
-- There was a **7.13%** increase in sales in sales in Germany via the hospital channel in 2018, but a **1.79%** and **-13.40%** in sales in 2019 and 2020 respectively. The sales representation in 2020 would have been as a reseult of the COVID19 pandemic.
+- There was a **7.13%** increase in sales in sales in Germany via the hospital channel in 2018, but a **1.79%** and **-13.40%** in sales in 2019 and 2020 respectively. The sales representation in 2020 would have been as a result of the COVID19 pandemic.
